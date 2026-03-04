@@ -58,5 +58,5 @@ The results suggest that in real-world forestry, maintaining a tree density just
 * **Research Presentation:** `Complex_Systems_Final_Slides.pdf`
 
 ## Author
-**Yousef Shihade & Shada Essawi**
-University of Haifa
+**Yousef Shihade & Shada Essawi** | University of Haifa
+
