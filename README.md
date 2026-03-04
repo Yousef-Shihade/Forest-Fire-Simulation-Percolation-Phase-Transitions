@@ -57,7 +57,7 @@ The results suggest that in real-world forestry, maintaining a tree density just
 * **Simulation Notebook:** `Stochastic_Fire_Model.ipynb`
 * **Research Presentation:** `Complex_Systems_Final_Slides.pdf`
 
-## Author
+## Authors
 **Yousef Shihade & Shada Essawi** | Computational Methods In Statistics B
 
 
