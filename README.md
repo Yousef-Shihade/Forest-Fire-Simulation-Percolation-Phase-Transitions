@@ -59,4 +59,6 @@ The results suggest that in real-world forestry, maintaining a tree density just
 
 ## Author
 **Yousef Shihade & Shada Essawi** | Computational Methods In Statistics B
+
+
 University of Haifa
